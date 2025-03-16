@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.11.0",
+  "startedAt":  "2025-03-16T11:36:26.783654Z",
+  "program":  "C:\\Users\\tanuj\\Desktop\\New folder (2)\\rag.py",
+  "codePath":  "rag.py",
+  "email":  "tanuj00047@gmail.com",
+  "root":  "C:\\Users\\tanuj\\Desktop\\New folder (2)",
+  "host":  "tanuj",
+  "executable":  "C:\\Users\\tanuj\\Desktop\\New folder (2)\\venvv\\python.exe",
+  "codePathLocal":  "rag.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "511071744000",
+      "used":  "420712345600"
+    }
+  },
+  "memory":  {
+    "total":  "7884312576"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2048,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}
